@@ -1,0 +1,26 @@
+{
+  "hashtags": [
+    "yogaretreat",
+    "retreatlife",
+    "retreatcenter",
+    "yogaretreatsworldwide",
+    "retreatmallorca",
+    "yogamallorca",
+    "mallorcayogaretreat",
+    "mallorcaretreat",
+    "fincahigo",
+    "mallorcahotel",
+    "calatuent",
+    "sacalobra",
+    "wellnessretreat",
+    "mindfulness",
+    "ecoretreat",
+    "consciousliving"
+  ],
+  "candidate_target_per_hashtag": 200,
+  "per_tab_target": 100,
+  "output_dir": "outputs/instagram_hashtags",
+  "chrome_profile_dir": "local_chrome_profile",
+  "include_usernames": false,
+  "notes": "Python collects raw candidates only. Cleaning, deduplication, sampling and analysis should be done in R."
+}
