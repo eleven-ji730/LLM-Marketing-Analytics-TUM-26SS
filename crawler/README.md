@@ -8,18 +8,18 @@ Python is used only for Instagram data collection because browser automation and
 
 ```text
 crawler/
-??? README.md
-??? crawler_reproducibility.md
-??? requirements.txt
-??? config.example.json
-??? run_higo_scrape.ps1
-??? run_hashtag_raw_collect.ps1
-??? scripts/
-?   ??? instagram_higo_scrape.py
-?   ??? hashtag_market_collect_raw.py
-??? outputs/
-    ??? instagram_higo/
-    ??? instagram_hashtags/
+|-- README.md
+|-- crawler_reproducibility.md
+|-- requirements.txt
+|-- config.example.json
+|-- run_higo_scrape.ps1
+|-- run_hashtag_raw_collect.ps1
+|-- scripts/
+|   |-- instagram_higo_scrape.py
+|   |-- hashtag_market_collect_raw.py
+|-- outputs/
+|   |-- instagram_higo/
+|   |-- instagram_hashtags/
 ```
 
 ## What Belongs Here
