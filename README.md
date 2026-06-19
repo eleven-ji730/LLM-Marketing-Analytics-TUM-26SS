@@ -77,12 +77,6 @@ The hashtag data in this repository is raw crawler output. Cleaning and further 
 |   |   |-- instagram_higo/
 |   |   |-- instagram_hashtags/
 |
-|-- data/
-|   |-- raw_public/
-|   |-- raw_private/
-|   |-- interim/
-|   |-- processed/
-|
 |-- R/
 |
 |-- docs/
